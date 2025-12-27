@@ -1,9 +1,8 @@
 # Restaurant Data Analysis Project (SQL & Power BI)
 
 **📌 Project Overview**
-This project focuses on analyzing restaurant data using SQL for data querying and Power BI for visualization and dashboard creation.
-The goal is to extract meaningful business insights related to restaurant performance, customer preferences, sales trends, and ratings.
-
+This project focuses on analyzing restaurant data using SQL for data querying and Power BI for visualization and dashboard creation./n
+The goal is to extract meaningful business insights related to restaurant performance, customer preferences, sales trends, and ratings./n
 This project demonstrates practical data analysis, SQL querying, and data visualization skills.
 
 **🎯 Objectives**
