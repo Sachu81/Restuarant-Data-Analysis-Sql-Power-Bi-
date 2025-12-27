@@ -23,12 +23,12 @@
 
 **📂 Project Structure**
 <p>Restaurant-Data-Analysis/</p>
-<hr> │
-  ├── data/
-  │   └── restaurant_data.csv
-  ├── sql_queries.sql
-  ├── powerbi_dashboard.pbix
-  ├── README.md </hr>
+<p>  │</p>
+<p>  ├── data/</p>
+<p>  │   └── restaurant_data.csv</p>
+<p>  ├── sql_queries.sql</p>
+<p>  ├── powerbi_dashboard.pbix</p>
+<p>  ├── README.md </p>
 
 
 
