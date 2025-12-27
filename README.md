@@ -1,28 +1,28 @@
 # Restaurant Data Analysis Project (SQL & Power BI)
 
 **📌 Project Overview**
-This project focuses on analyzing restaurant data using SQL for data querying and Power BI for visualization and dashboard creation.
-The goal is to extract meaningful business insights related to restaurant performance, customer preferences, sales trends, and ratings.
-This project demonstrates practical data analysis, SQL querying, and data visualization skills.
+<p>This project focuses on analyzing restaurant data using SQL for data querying and Power BI for visualization and dashboard creation.</p>
+<p>The goal is to extract meaningful business insights related to restaurant performance, customer preferences, sales trends, and ratings.</p>
+<p>This project demonstrates practical data analysis, SQL querying, and data visualization skills.</p>
 
 **🎯 Objectives**
-Analyze restaurant data using SQL queries
-Perform data cleaning and transformation
-Identify key business trends
-Create interactive dashboards in Power BI
-Support data-driven decision-making
+<p>Analyze restaurant data using SQL queries</p>
+<p>Perform data cleaning and transformation</p>
+<p>Identify key business trends</p>
+<p>Create interactive dashboards in Power BI</p>
+<p>Support data-driven decision-making</p>
 
 
 **🛠️ Tools & Technologies**
-Database: MySQL / SQL Server
-Query Language: SQL
-Visualization Tool: Power BI
-Data Format: CSV / Excel
+<p>Database: MySQL / SQL Server</p>
+<p>Query Language: SQL</p>
+<p>Visualization Tool: Power BI</p>
+<p>Data Format: CSV / Excel</p>
 
 
 
 **📂 Project Structure**
-Restaurant-Data-Analysis/
+<pRestaurant-Data-Analysis/</p>
 │
 ├── data/
 │   └── restaurant_data.csv
@@ -32,17 +32,8 @@ Restaurant-Data-Analysis/
 
 
 
-**🔍 SQL_Queries Performed**
-
-Retrieve top-rated restaurant
-City-wise restaurant analysis
-Cuisine popularity analysis
-Average cost per cuisine
-Revenue and sales trend analysis
-Customer rating distribution
-
 
 
 **👨‍💻 Author**
-Your Name : Sachin Chavan
-Data Analyst
+<p>Your Name : Sachin Chavan</p>
+<p>Data Analyst</p>
